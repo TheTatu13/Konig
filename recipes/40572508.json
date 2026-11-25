@@ -1,0 +1,20 @@
+{
+  "careers_urls": [
+    "https://pompeulei.ro/cariere/creator-continut-video",
+    "https://pompeulei.ro/cariere/gestionar-depozit-logistica",
+    "https://pompeulei.ro/cariere/manager-vanzari",
+    "https://pompeulei.ro/cariere/mecanic-auto",
+    "https://pompeulei.ro/cariere/operator-suport-clienti",
+    "https://pompeulei.ro/cariere/specialist-marketing-pr",
+    "https://pompeulei.ro/cariere/tehnician-turbosuflante",
+    "https://pompeulei.ro/cariere/ugyfelszolgalati-ugynokot"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 8,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-22",
+  "source": "learned"
+}

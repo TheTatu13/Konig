@@ -1,0 +1,27 @@
+{
+  "careers_urls": [
+    "https://www.electroglobal.ro/cariere",
+    "https://www.electroglobal.ro/cariere/area-sales-manager",
+    "https://www.electroglobal.ro/cariere/asistent-marketing-design-continut",
+    "https://www.electroglobal.ro/cariere/coordonator-calitate-operationala-tablouri-electrice",
+    "https://www.electroglobal.ro/cariere/electrical-engineering-manager",
+    "https://www.electroglobal.ro/cariere/electrical-engineering-manager-tablouri-electrice-distributie-energie",
+    "https://www.electroglobal.ro/cariere/electrician",
+    "https://www.electroglobal.ro/cariere/inginer-automatist",
+    "https://www.electroglobal.ro/cariere/inginer-ofertare-proiecte",
+    "https://www.electroglobal.ro/cariere/inginer-planificare-si-pregatire-fabricatie-tablouri-electrice",
+    "https://www.electroglobal.ro/cariere/inginer-proiectant-electric",
+    "https://www.electroglobal.ro/cariere/inginer-vanzari-back-office",
+    "https://www.electroglobal.ro/cariere/operator-depozit",
+    "https://www.electroglobal.ro/cariere/specialist-achizitii-senior",
+    "https://www.electroglobal.ro/despre-noi/cariere"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 15,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-20",
+  "source": "learned"
+}

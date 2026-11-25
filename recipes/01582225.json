@@ -1,0 +1,31 @@
+{
+  "careers_urls": [
+    "https://anuntul.ro/anunturi-locuri-de-munca",
+    "https://anuntul.ro/anunturi-locuri-de-munca/cereri",
+    "https://anuntul.ro/anunturi-locuri-de-munca/in-strainatate",
+    "https://anuntul.ro/anunturi-locuri-de-munca/oferte-full-time",
+    "https://anuntul.ro/anunturi-locuri-de-munca/oferte-part-time",
+    "https://anuntul.ro/anunturi-locuri-de-munca/videochat-masaj-adult",
+    "https://anuntul.ro/anunturi-locuri-de-munca?page=2",
+    "https://anuntul.ro/anunturi-locuri-de-munca?page=3",
+    "https://anuntul.ro/anunturi-locuri-de-munca?page=4",
+    "https://www.anuntul.ro/anunturi-locuri-de-munca/cereri",
+    "https://www.anuntul.ro/anunturi-locuri-de-munca/in-strainatate",
+    "https://www.anuntul.ro/anunturi-locuri-de-munca/oferte-full-time",
+    "https://www.anuntul.ro/anunturi-locuri-de-munca/oferte-full-time?page=1&amp%3Bsearch%5Bquery%5D=agent+vanzari",
+    "https://www.anuntul.ro/anunturi-locuri-de-munca/oferte-full-time?q=ospatar",
+    "https://www.anuntul.ro/anunturi-locuri-de-munca/oferte-full-time?search%5Bquery%5D=femeie+de+serviciu&amp%3Bpage=2",
+    "https://www.anuntul.ro/anunturi-locuri-de-munca/oferte-part-time"
+  ],
+  "ad_link_regex": "^https://[^/]+/anunturi\\-locuri\\-de\\-munca/[^/?#]+(?:\\?.*)?$",
+  "pagination": {
+    "kind": "query",
+    "param": "page"
+  },
+  "render": false,
+  "expected_min": 30,
+  "max_pages": 25,
+  "budget": 67,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

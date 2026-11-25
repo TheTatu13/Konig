@@ -1,0 +1,31 @@
+{
+  "careers_urls": [
+    "https://bioclinica.ro/compania/cariere",
+    "https://bioclinica.ro/compania/cariere/asistent-medical-de-laborator-bucuresti",
+    "https://bioclinica.ro/compania/cariere/asistent-medical-de-laborator-tehnician-de-laborator-clinic-timisoara",
+    "https://bioclinica.ro/compania/cariere/asistent-medical-generalist",
+    "https://bioclinica.ro/compania/cariere/asistent-medical-generalist-1",
+    "https://bioclinica.ro/compania/cariere/biolog",
+    "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist",
+    "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist-timisoara",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-1",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-2",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-3",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-4",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-brasov",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-microbiologie",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-microbiologie-1",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-sibiu",
+    "https://bioclinica.ro/compania/cariere/medic-medicina-de-laborator-timisoara",
+    "https://bioclinica.ro/compania/cariere/tehnician-it"
+  ],
+  "ad_link_regex": "^https://[^/]+/compania/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 19,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

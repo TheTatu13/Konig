@@ -1,0 +1,14 @@
+{
+  "careers_urls": [
+    "https://www.edurom.ro/executive-jobs",
+    "https://www.edurom.ro/it-jobs"
+  ],
+  "ad_link_regex": "^https://[^/]+/jobs/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 44,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

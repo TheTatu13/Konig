@@ -1,0 +1,14 @@
+{
+  "careers_urls": [
+    "https://inoveo.ro/en/jobs",
+    "https://inoveo.ro/jobs"
+  ],
+  "ad_link_regex": "^https://[^/]+/jobs/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 9,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-25",
+  "source": "learned"
+}

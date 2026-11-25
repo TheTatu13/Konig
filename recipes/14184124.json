@@ -1,0 +1,19 @@
+{
+  "careers_urls": [
+    "https://holisun.com/cariere/asistent-de-cercetare",
+    "https://holisun.com/cariere/llm-specialist",
+    "https://holisun.com/cariere/program-internship",
+    "https://holisun.com/cariere/programator-junior",
+    "https://holisun.com/cariere/programator-mid",
+    "https://holisun.com/cariere/programator-senior",
+    "https://holisun.com/pagina-cariere"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 12,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

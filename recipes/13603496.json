@@ -1,0 +1,13 @@
+{
+  "careers_urls": [
+    "https://medsana.ro/ro/cariere"
+  ],
+  "ad_link_regex": "^https://[^/]+/ro/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 9,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-25",
+  "source": "learned"
+}

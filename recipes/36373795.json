@@ -1,0 +1,18 @@
+{
+  "careers_urls": [
+    "https://jobdistrict.ro/joburi",
+    "https://jobdistrict.ro/locuri-de-munca/operator-control-nedistructiv",
+    "https://jobdistrict.ro/locuri-de-munca/sef-de-schimb-lacatusi-confectii-metalice",
+    "https://jobdistrict.ro/locuri-de-munca/sef-de-schimb-sudor-mig-mag",
+    "https://jobdistrict.ro/locuri-de-munca/specialist-in-domeniul-calitatii",
+    "https://jobdistrict.ro/locuri-de-munca/sudor-mig-mag-lacatus-constructii-metalice"
+  ],
+  "ad_link_regex": "^https://[^/]+/locuri\\-de\\-munca/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 6,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

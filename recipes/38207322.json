@@ -1,0 +1,13 @@
+{
+  "careers_urls": [
+    "https://egointeriors.ro/pages/cariere"
+  ],
+  "ad_link_regex": "^https://[^/]+/pages/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 4,
+  "max_pages": 1,
+  "budget": 18,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

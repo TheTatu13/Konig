@@ -1,0 +1,26 @@
+{
+  "careers_urls": [
+    "https://psihoselect.ro/blog/recrutare-in-criza",
+    "https://psihoselect.ro/en/jobs/chief-executive-officer-location-maramures-county",
+    "https://psihoselect.ro/en/jobs/field-sales-engineer",
+    "https://psihoselect.ro/en/jobs/group-qa-manager-multiple-sites",
+    "https://psihoselect.ro/en/jobs/hr-director-multiple-sites-location-based-in-cluj-napoca",
+    "https://psihoselect.ro/en/jobs/hr-solutions-lead",
+    "https://psihoselect.ro/en/jobs/inbound-logistics-coordinator",
+    "https://psihoselect.ro/en/jobs/production-engineering-coordinator",
+    "https://psihoselect.ro/en/jobs/sales-engineer-location-cluj-bihor-county",
+    "https://psihoselect.ro/en/jobs/senior-financial-controller-location-bucharest",
+    "https://psihoselect.ro/en/jobs/technical-construction-manager",
+    "https://psihoselect.ro/joburi"
+  ],
+  "ad_link_regex": "^https://[^/]+/job\\-uri/[^/?#]+(?:\\?.*)?$",
+  "pagination": {
+    "kind": "next"
+  },
+  "render": false,
+  "expected_min": 13,
+  "max_pages": 25,
+  "budget": 67,
+  "learned": "2026-11-22",
+  "source": "learned"
+}

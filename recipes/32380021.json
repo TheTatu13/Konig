@@ -1,0 +1,19 @@
+{
+  "careers_urls": [
+    "https://ferex.ro/cariere",
+    "https://ferex.ro/jobs/area-sales-manager-b2b",
+    "https://ferex.ro/jobs/asistent-logistic",
+    "https://ferex.ro/jobs/inginer-productie-inginer-mecanic",
+    "https://ferex.ro/jobs/operator-productie-cunostinte-de-desen-tehnic"
+  ],
+  "ad_link_regex": "^https://[^/]+/jobs/[^/?#]+(?:\\?.*)?$",
+  "pagination": {
+    "kind": "next"
+  },
+  "render": false,
+  "expected_min": 4,
+  "max_pages": 25,
+  "budget": 66,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

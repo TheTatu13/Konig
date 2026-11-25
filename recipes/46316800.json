@@ -1,0 +1,19 @@
+{
+  "careers_urls": [
+    "https://softlead.ro/cariere",
+    "https://softlead.ro/cariere/intern-junior-developer",
+    "https://softlead.ro/cariere/junior-customer-success",
+    "https://softlead.ro/cariere/junior-software-developer",
+    "https://softlead.ro/cariere/online-marketing-specialist",
+    "https://softlead.ro/cariere/senior-sales-business-developer",
+    "https://softlead.ro/cariere/software-developer"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 6,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-24",
+  "source": "learned"
+}

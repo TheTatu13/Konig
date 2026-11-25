@@ -1,0 +1,25 @@
+{
+  "careers_urls": [
+    "https://depanero.ro/cariere-depanero",
+    "https://depanero.ro/cariere-depanero/customers-service-specialist",
+    "https://depanero.ro/cariere-depanero/electrician",
+    "https://depanero.ro/cariere-depanero/instalator-sisteme-fotovoltaice",
+    "https://depanero.ro/cariere-depanero/instalator-tehnico-sanitare-si-gaze",
+    "https://depanero.ro/cariere-depanero/manipulant-marfa",
+    "https://depanero.ro/cariere-depanero/montator-aer-conditionat",
+    "https://depanero.ro/cariere-depanero/operator-call-center",
+    "https://depanero.ro/cariere-depanero/receptionist-logistica",
+    "https://depanero.ro/cariere-depanero/receptionist-service-front-desk",
+    "https://depanero.ro/cariere-depanero/tehnician-audio-video",
+    "https://depanero.ro/cariere-depanero/tehnician-electrocasnice-mari",
+    "https://depanero.ro/cariere-depanero/tehnician-reparatii-telefoane"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere\\-depanero/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 13,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-20",
+  "source": "learned"
+}

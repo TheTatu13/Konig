@@ -1,0 +1,29 @@
+{
+  "careers_urls": [
+    "https://www.jobdirect.ro/",
+    "https://www.jobdirect.ro/job/agent-de-vanzari-door-to-door",
+    "https://www.jobdirect.ro/job/angajam-persoane-cu-dizabilitat-cu-prezenta-la-birou-bucuresti",
+    "https://www.jobdirect.ro/job/angajam-secretara-pentru-managerul-general",
+    "https://www.jobdirect.ro/job/content-management",
+    "https://www.jobdirect.ro/job/electrician-curenti-slabi-sisteme-de-securitate-bucuresti-salariu-6-000-lei",
+    "https://www.jobdirect.ro/job/inginer-proiectant-sisteme-de-securitate-bucuresti-salariu-10-000-lei",
+    "https://www.jobdirect.ro/job/ingrijitor-proprietate",
+    "https://www.jobdirect.ro/job/kinetoterapeut-fiziokinetoterapeut-senior",
+    "https://www.jobdirect.ro/job/maseur-asistent-bfkt-kinetoterapeut-persoane-cu-dizabilitati",
+    "https://www.jobdirect.ro/job/ospatar-cafenea",
+    "https://www.jobdirect.ro/job/persoana-cu-dizabilitati-maseur-asistent-bfkt-kinetoterapeut",
+    "https://www.jobdirect.ro/job/tehnician-sisteme-de-securitate-bucuresti-salariu-6-000-lei",
+    "https://www.jobdirect.ro/jobs"
+  ],
+  "ad_link_regex": "^https://[^/]+/job/[^/?#]+(?:\\?.*)?$",
+  "pagination": {
+    "kind": "query",
+    "param": "p"
+  },
+  "render": false,
+  "expected_min": 19,
+  "max_pages": 25,
+  "budget": 67,
+  "learned": "2026-11-23",
+  "source": "learned"
+}

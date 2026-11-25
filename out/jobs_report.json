@@ -1,0 +1,27 @@
+{
+  "firms_done": 34092,
+  "firms_with_jobs": 1019,
+  "jobs_total": 4294,
+  "dead_links": 223,
+  "by_method": {
+    "anofm": 598,
+    "none": 33068,
+    "recipe": 190,
+    "listing": 206,
+    "workday": 8,
+    "jsonld": 19,
+    "personio": 1,
+    "lever": 1,
+    "workable": 1
+  },
+  "flags": {
+    "recipe_learned": 190,
+    "truncated": 16,
+    "recipe_drift": 7,
+    "checks_capped": 5
+  },
+  "requests": 44972,
+  "renders": 0,
+  "firms_left": 0,
+  "dry_run": true
+}

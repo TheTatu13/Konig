@@ -1,0 +1,29 @@
+{
+  "careers_urls": [
+    "https://www.educatieprivata.ro/cariere",
+    "https://www.educatieprivata.ro/cariere/alatura-te-echipei-liceului-teoretic-national",
+    "https://www.educatieprivata.ro/cariere/cautam-colegi-noi",
+    "https://www.educatieprivata.ro/cariere/cautam-un-profesor-si-un-asistent-de-invatamant-prescolar",
+    "https://www.educatieprivata.ro/cariere/educatoare-si-invatatoare",
+    "https://www.educatieprivata.ro/cariere/gradinita-king-george-sector-6-angajeaza-educatoare-grupa-de-engleza",
+    "https://www.educatieprivata.ro/cariere/invatator",
+    "https://www.educatieprivata.ro/cariere/invatator-clasele-i-iv",
+    "https://www.educatieprivata.ro/cariere/job-opening-ichb-angajeaza",
+    "https://www.educatieprivata.ro/cariere/prescolar-questfield",
+    "https://www.educatieprivata.ro/cariere/profesor-de-engleza",
+    "https://www.educatieprivata.ro/cariere/profesor-de-limba-engleza",
+    "https://www.educatieprivata.ro/cariere/professeur-de-francais",
+    "https://www.educatieprivata.ro/cariere/responsabil-comunicare-interna",
+    "https://www.educatieprivata.ro/cariere/responsabil-de-dezvoltare-si-comunicare-externa",
+    "https://www.educatieprivata.ro/cariere/scoala-internationala-king-george-angajeaza-profesor-invatamant-primar-invatator",
+    "https://www.educatieprivata.ro/cariere/scoala-internationala-king-george-isi-mareste-echipa-2"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 16,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-25",
+  "source": "learned"
+}

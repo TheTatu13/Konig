@@ -1,0 +1,24 @@
+{
+  "careers_urls": [
+    "https://www.avitech.ro/cariere",
+    "https://www.avitech.ro/en/job/posturi-disponibile-executie-lucrari-instalatii",
+    "https://www.avitech.ro/en/job/posturi-disponibile-management",
+    "https://www.avitech.ro/en/job/posturi-disponibile-mentenanta-suport-tehnic",
+    "https://www.avitech.ro/en/job/posturi-disponibile-proiectare",
+    "https://www.avitech.ro/job/posturi-disponibile-administrativ",
+    "https://www.avitech.ro/job/posturi-disponibile-executie-lucrari-instalatii",
+    "https://www.avitech.ro/job/posturi-disponibile-management",
+    "https://www.avitech.ro/job/posturi-disponibile-mentenanta-suport-tehnic",
+    "https://www.avitech.ro/job/posturi-disponibile-ofertare",
+    "https://www.avitech.ro/job/posturi-disponibile-proiectare",
+    "https://www.avitech.ro/job/posturi-disponibile-vanzari-marketing"
+  ],
+  "ad_link_regex": "^https://[^/]+/job/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 7,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-20",
+  "source": "learned"
+}

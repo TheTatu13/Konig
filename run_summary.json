@@ -1,0 +1,12 @@
+{
+  "run": 22,
+  "finished": true,
+  "failed": false,
+  "reason": "all firms checked",
+  "firms_total": 488297,
+  "firms_checked": 488297,
+  "firms_with_site": 34092,
+  "firms_jobs_done": 34092,
+  "job_lines": 4294,
+  "seconds": 17433
+}

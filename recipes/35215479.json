@@ -1,0 +1,13 @@
+{
+  "careers_urls": [
+    "https://bepco.ro/cariere-bepco"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere\\-bepco/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 7,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

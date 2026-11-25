@@ -1,0 +1,15 @@
+{
+  "careers_urls": [
+    "https://sika.ro/ro/sika-cariere/cariere-internationale.html",
+    "https://sika.ro/ro/sika-cariere/de-ce-sa-lucrezi-la-sika.html",
+    "https://sika.ro/ro/sika-cariere/fa-parte-din-spiritul-sika.html"
+  ],
+  "ad_link_regex": "^https://[^/]+/ro/sika\\-cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 3,
+  "max_pages": 1,
+  "budget": 17,
+  "learned": "2026-11-20",
+  "source": "learned"
+}

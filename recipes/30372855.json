@@ -1,0 +1,20 @@
+{
+  "careers_urls": [
+    "https://unitip.ro/cariere",
+    "https://unitip.ro/cariere/asistent-project-manager",
+    "https://unitip.ro/cariere/asistent-project-manager-2",
+    "https://unitip.ro/cariere/asistent-project-manager-3",
+    "https://unitip.ro/cariere/inginer-calitate",
+    "https://unitip.ro/cariere/manager-de-proiect",
+    "https://unitip.ro/cariere/sef-de-santier",
+    "https://unitip.ro/cariere/sef-de-santier-2"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 8,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-20",
+  "source": "learned"
+}

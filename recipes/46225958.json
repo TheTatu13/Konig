@@ -1,0 +1,16 @@
+{
+  "careers_urls": [
+    "https://todayworkforce.ro/jobs",
+    "https://todayworkforce.ro/jobs?start=16",
+    "https://todayworkforce.ro/jobs?start=32",
+    "https://todayworkforce.ro/jobs?start=48"
+  ],
+  "ad_link_regex": "^https://[^/]+/jobs/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 59,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

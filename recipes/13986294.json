@@ -1,0 +1,13 @@
+{
+  "careers_urls": [
+    "https://www.exesoftware.ro/about/careers"
+  ],
+  "ad_link_regex": "^https://[^/]+/jobs/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 4,
+  "max_pages": 1,
+  "budget": 18,
+  "learned": "2026-11-20",
+  "source": "learned"
+}

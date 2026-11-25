@@ -1,0 +1,18 @@
+{
+  "careers_urls": [
+    "https://webgyland.ro/cariere",
+    "https://webgyland.ro/cariere/colaborari-b2b",
+    "https://webgyland.ro/cariere/sales-specialist",
+    "https://webgyland.ro/cariere/shopify-developer",
+    "https://webgyland.ro/cariere/stagiu-de-practica",
+    "https://webgyland.ro/cariere/wordpress-developer"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 5,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-24",
+  "source": "learned"
+}

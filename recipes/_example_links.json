@@ -1,0 +1,6 @@
+﻿{
+  "_comment": "Variantă fără ATS: paginile de carieră + un regex pentru linkurile de anunț (fiecare anunț e confirmat pe propria pagină).",
+  "careers_urls": ["https://firma.ro/cariere"],
+  "ad_link_regex": "/joburi/",
+  "max_ads": 40
+}

@@ -1,0 +1,17 @@
+{
+  "careers_urls": [
+    "https://rnnworkagency.ro/job-uri",
+    "https://rnnworkagency.ro/job-uri-disponibile",
+    "https://rnnworkagency.ro/job-uri-disponibile/muncitor-necalificat",
+    "https://rnnworkagency.ro/job-uri-disponibile/sudor",
+    "https://rnnworkagency.ro/job-uri-disponibile/tamplar-dulgher"
+  ],
+  "ad_link_regex": "^https://[^/]+/job\\-uri\\-disponibile/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 3,
+  "max_pages": 1,
+  "budget": 17,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

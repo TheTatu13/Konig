@@ -1,0 +1,16 @@
+{
+  "careers_urls": [
+    "https://www.elektrosmart.ro/cariere",
+    "https://www.elektrosmart.ro/cariere/inginer-electric",
+    "https://www.elektrosmart.ro/cariere/instalator-panouri-fotovoltaice",
+    "https://www.elektrosmart.ro/cariere/specialist-administrare-site-magazin-online"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 5,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

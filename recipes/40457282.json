@@ -1,0 +1,33 @@
+{
+  "careers_urls": [
+    "https://bbhtsolutions.ro/careers/working-at-bbht-solutions.html",
+    "https://bbhtsolutions.ro/careers/working-at-bbht-solutions.html?rCH=-2",
+    "https://bbhtsolutions.ro/careers/working-at-bbht-solutions.html?rCH=2",
+    "https://bbhtsolutions.ro/jobs/active-directory-specialist.html",
+    "https://bbhtsolutions.ro/jobs/aix-system-administrator.html",
+    "https://bbhtsolutions.ro/jobs/angular-developer.html",
+    "https://bbhtsolutions.ro/jobs/banking-reports-analyst.html",
+    "https://bbhtsolutions.ro/jobs/full-stack-developer.html",
+    "https://bbhtsolutions.ro/jobs/java-software-developer.html",
+    "https://bbhtsolutions.ro/jobs/junior-developer-with-javascript.html",
+    "https://bbhtsolutions.ro/jobs/junior-network-engineer.html",
+    "https://bbhtsolutions.ro/jobs/junior-software-developer.html",
+    "https://bbhtsolutions.ro/jobs/junior-test-automation-engineer.html",
+    "https://bbhtsolutions.ro/jobs/linux-administrator.html",
+    "https://bbhtsolutions.ro/jobs/oracle-database-administrator.html",
+    "https://bbhtsolutions.ro/jobs/senior-network-engineer.html",
+    "https://bbhtsolutions.ro/jobs/senior-software-developer.html",
+    "https://bbhtsolutions.ro/jobs/senior-software-tester.html",
+    "https://bbhtsolutions.ro/jobs/system-administrator.html",
+    "https://bbhtsolutions.ro/jobs/windows-administrator.html",
+    "https://www.bbhtsolutions.ro/careers/working-at-bbht-solutions.html"
+  ],
+  "ad_link_regex": "^https://[^/]+/jobs/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 72,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

@@ -1,0 +1,18 @@
+{
+  "careers_urls": [
+    "https://ropardo.ro/careers",
+    "https://ropardo.ro/careers/crush-it",
+    "https://ropardo.ro/careers/for-students",
+    "https://ropardo.ro/careers/open-positions",
+    "https://ropardo.ro/careers/our-story",
+    "https://ropardo.ro/careers/ropardo-academy"
+  ],
+  "ad_link_regex": "^https://[^/]+/job/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 3,
+  "max_pages": 1,
+  "budget": 17,
+  "learned": "2026-11-20",
+  "source": "learned"
+}

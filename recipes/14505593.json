@@ -1,0 +1,16 @@
+{
+  "careers_urls": [
+    "https://www.iservices.ro/en",
+    "https://www.iservices.ro/en/jobs/content-manager",
+    "https://www.iservices.ro/en/jobs/digital-project-manager",
+    "https://www.iservices.ro/en/jobs/web-developer"
+  ],
+  "ad_link_regex": "^https://[^/]+/en/jobs/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 3,
+  "max_pages": 1,
+  "budget": 17,
+  "learned": "2026-11-24",
+  "source": "learned"
+}

@@ -1,0 +1,14 @@
+{
+  "careers_urls": [
+    "https://www.romnets.ro/angajari/joburi",
+    "https://www.romnets.ro/joburi"
+  ],
+  "ad_link_regex": "^https://[^/]+/joburi/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 3,
+  "max_pages": 1,
+  "budget": 17,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

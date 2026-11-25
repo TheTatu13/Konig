@@ -1,0 +1,20 @@
+{
+  "careers_urls": [
+    "https://vision.ro/careers/application-configuration-developer",
+    "https://vision.ro/careers/full-stack-developer",
+    "https://vision.ro/careers/infrastructure-devops",
+    "https://vision.ro/careers/iot-engineer",
+    "https://vision.ro/careers/solution-delivery-consultant",
+    "https://vision.ro/careers/web-developer",
+    "https://vision.ro/ro/work-with-us",
+    "https://vision.ro/work-with-us"
+  ],
+  "ad_link_regex": "^https://[^/]+/careers/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 6,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

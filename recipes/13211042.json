@@ -1,0 +1,18 @@
+{
+  "careers_urls": [
+    "https://frigotherm.ro/cariere",
+    "https://frigotherm.ro/cariere/electrician-echipament-frigotehnic",
+    "https://frigotherm.ro/cariere/lacatus-mecanic",
+    "https://frigotherm.ro/cariere/mecanic-frigotehnist"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": {
+    "kind": "next"
+  },
+  "render": false,
+  "expected_min": 3,
+  "max_pages": 25,
+  "budget": 65,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

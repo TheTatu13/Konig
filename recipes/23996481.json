@@ -1,0 +1,13 @@
+{
+  "careers_urls": [
+    "https://aeronamic.com/careers"
+  ],
+  "ad_link_regex": "^https://[^/]+/vacancy/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 10,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-20",
+  "source": "learned"
+}

@@ -1,0 +1,18 @@
+{
+  "careers_urls": [
+    "https://www.globaldev.ro/cariere",
+    "https://www.globaldev.ro/cariere/job-configurator-wordpress",
+    "https://www.globaldev.ro/cariere/job-content-writer-copywriter",
+    "https://www.globaldev.ro/cariere/job-junior-digital-marketing",
+    "https://www.globaldev.ro/cariere/job-specialist-digital-marketing",
+    "https://www.globaldev.ro/cariere/job-wordpress-developer"
+  ],
+  "ad_link_regex": "^https://[^/]+/cariere/[^/?#]+(?:\\?.*)?$",
+  "pagination": null,
+  "render": false,
+  "expected_min": 5,
+  "max_pages": 1,
+  "budget": 19,
+  "learned": "2026-11-21",
+  "source": "learned"
+}

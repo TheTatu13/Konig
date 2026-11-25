@@ -1,0 +1,21 @@
+{
+  "careers_urls": [
+    "https://prosep.ro/cariere",
+    "https://prosep.ro/jobs/asistent-vanzari",
+    "https://prosep.ro/jobs/asistent-vanzari-b2b",
+    "https://prosep.ro/jobs/b2b-senior-sales-representative",
+    "https://prosep.ro/jobs/b2b-senior-sales-representative-2",
+    "https://prosep.ro/jobs/manipulant",
+    "https://prosep.ro/jobs/operator-debitare"
+  ],
+  "ad_link_regex": "^https://[^/]+/jobs/[^/?#]+(?:\\?.*)?$",
+  "pagination": {
+    "kind": "next"
+  },
+  "render": false,
+  "expected_min": 7,
+  "max_pages": 25,
+  "budget": 67,
+  "learned": "2026-11-20",
+  "source": "learned"
+}
